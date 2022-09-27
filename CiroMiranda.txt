@@ -1,4 +1,4 @@
-Ciro Miranda de Freitas
+﻿Ciro Miranda de Freitas
 
 cirofreitas1995@gmail.com
 
@@ -13,3 +13,5 @@ Lucas pergunta: Qual seu filme favorito?
 Lucas Vicente pergunta: Qual sua banda favorita?
 
 Mykaeli pergunta: Qual é o seu hobbie?
+
+Pietra pergunta:  Qual o show de uma banda que você tem vontade de ir?

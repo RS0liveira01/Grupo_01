@@ -1,4 +1,4 @@
-mykaeli;
+﻿mykaeli;
 mykaelifernandes@hotmail.com
 Brasileira, 23 anos.
 
@@ -14,3 +14,6 @@ jucimar pergunta : ola qual foi a inspiracao para seu nome ? rsrs
 Lucas pergunta: Qual seu filme favorito?
 
 Lucas Vicente pergunta: Qual seu time favorito?
+
+Pietra pergunta:  Qual melhor clipe musical na sua opinião?
+

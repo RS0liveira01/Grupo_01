@@ -1,4 +1,4 @@
-Lucas
+﻿Lucas
 flclvl@gmail.com
 Gosto de comer pizza, passear com a cachorra e ler gibis.
 
@@ -13,3 +13,6 @@ jucimar pergunta: qual sua cor favorita ?
 Lucas Silva pergunta: Qual seu filme favorito?
 
 Mykaeli pergunta: Qual série preferida?
+
+Pietra pergunta:  Você gosta de Pop? Se sim, qual seu artista favorito?
+

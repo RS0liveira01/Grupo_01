@@ -1,4 +1,4 @@
-Isabela Telles de Lira
+﻿Isabela Telles de Lira
 
 itellesdelira@gmail.com
 
@@ -17,3 +17,5 @@ Lucas pergunta: Qual seu filme favorito?
 Lucas Vicente pergunta: Você tem animal de estimação?
  
 Mykaeli pergunta: Você tem irmãos?
+
+Pietra pergunta:  Já realizou o sonho de ver algum(a) ídolo(a)? Se sim, qual?

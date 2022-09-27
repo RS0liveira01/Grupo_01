@@ -1,4 +1,4 @@
-Rodrigo Oliveira
+﻿Rodrigo Oliveira
 rdg.st07@gmail.com
 
 
@@ -20,3 +20,6 @@ Lucas pergunta: Qual seu filme favorito?
 Lucas Vicente pergunta: Qual sua linguagem de programação preferida?
 
 Mykaeli pergunta: Tem um hobbie?
+
+Pietra pergunta:  Qual a música que você escolheria  para escutar o resto da vida?
+

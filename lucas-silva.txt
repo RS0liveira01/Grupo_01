@@ -1,4 +1,4 @@
-Meu nome é Lucas da Silva Souza
+﻿Meu nome é Lucas da Silva Souza
 Sou formado em direito e gosto de plantas tropicais e fotografia.
 Fiz meu tcc focado em direito à cidade e arquitetura.
 lucassilvasouza1@outlook.com
@@ -15,3 +15,5 @@ jucimar pergunta : voce trabalha com o que ?
 Lucas Vicente pergunta: Qual sua profissão?
 
 Mykaeli pergunta: Cor favorita?
+
+Pietra pergunta:  Qual o melhor gênero de música na sua opinião?
