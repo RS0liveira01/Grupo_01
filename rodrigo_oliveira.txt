@@ -1,22 +1,29 @@
-Rodrigo Oliveira
+﻿Rodrigo Oliveira
 rdg.st07@gmail.com
 
 
-
-"implementando a cereja do bolo"
-
-incluindo nova alteração
-
 Ciro pergunta Rodrigo
 Filme favorito?
-
+ - as versões estendidas de O Senhor dos Anéis	
 
 Isa pergunta: Qual é a sua banda favorita? 
+ - Metallica, Iron Maiden e Linkin Park... difícil escolher só uma rs
 
 jucimar pergunta : quantos anos voce tem ?
+ - tenho 27 anos
 
 Lucas pergunta: Qual seu filme favorito?
 
+ - além de O Senhor dos Aneis, Bastardos Inglórios!
+
 Lucas Vicente pergunta: Qual sua linguagem de programação preferida?
 
+ - ainda sou iniciante em programação, então não tenho experiência com muitas linguagens, mas até agora, gostei de mexer com javascript e quero aprender python!
+
 Mykaeli pergunta: Tem um hobbie?
+
+- meus hobbies são games (atualmente estou jogando Monster Hunter World no PS4), ouvir música, e assistir séries (acompanhando House of Dragon e Anéis de Poder)
+
+Pietra pergunta:  Qual a música que você escolheria  para escutar o resto da vida?
+
+- Difícil! hahaha mas acho que seria Numb, do Linkin Park.

@@ -1,12 +1,12 @@
-Meu nome é Lucas da Silva Souza
+﻿Meu nome é Lucas da Silva Souza
 Sou formado em direito e gosto de plantas tropicais e fotografia.
 Fiz meu tcc focado em direito à cidade e arquitetura.
 lucassilvasouza1@outlook.com
 
 Ciro pergunta Lucas Silva
+
 Qual série favorita?
 Minha série favorita é sucesseion
-
 
 Isa pergunta: Qual é a sua banda favorito? 
 Minha bando do coração é Nirvana
@@ -19,3 +19,9 @@ Sou formado em direito, mas não exerço.
 
 Mykaeli pergunta: Cor favorita?
 Verde
+
+Pietra pergunta:  Qual o melhor gênero de música na sua opinião?
+Pop experimental 
+
+Rodrigo pergunta: Qual planta você mais gosta?
+Anthurium warocqueanum

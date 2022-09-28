@@ -1,15 +1,26 @@
-Lucas
+﻿Lucas
 flclvl@gmail.com
 Gosto de comer pizza, passear com a cachorra e ler gibis.
 
 Ciro pergunta Lucas
-Qual seu time de futebol
+Qual seu time de futebol?
+R: São Paulo
 
 
 Isa pergunta: Qual é o seu cantor favorito? 
+R: Nacional: Lobão / Internacional: Dead e Axl Rose
 
 jucimar pergunta: qual sua cor favorita ?
+R: Não tenho
 
 Lucas Silva pergunta: Qual seu filme favorito?
+R: Uma jogada do Destino
 
 Mykaeli pergunta: Qual série preferida?
+R: Não assisto series
+
+Pietra pergunta:  Você gosta de Pop? Se sim, qual seu artista favorito?
+R: Titans
+
+Rodrigo pergunta: Qual seu livro favorito?
+R: Caminhos cruzados
