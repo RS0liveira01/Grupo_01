@@ -21,3 +21,5 @@ Lucas pergunta: Qual seu filme favorito?
 Lucas Vicente pergunta: Qual cidade você mora?
 
 Mykaeli pergunta: Cor favorita?
+
+Rodrigo pergunta: Estilo musical favorito?

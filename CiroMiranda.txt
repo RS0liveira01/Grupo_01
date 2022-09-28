@@ -14,4 +14,6 @@ Lucas Vicente pergunta: Qual sua banda favorita?
 
 Mykaeli pergunta: Qual é o seu hobbie?
 
-Pietra pergunta:  Qual o show de uma banda que você tem vontade de ir?
+Pietra pergunta:  Qual o show de uma banda que você tem vontade de ir?'
+
+Rodrigo pergunta: Qual seu jogo favorito?

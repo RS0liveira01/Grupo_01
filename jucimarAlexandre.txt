@@ -13,3 +13,5 @@ Lucas Vicente pergunta: Qual seu livro favorito?
 Mykaeli pergunta: Com o que trabalha?
 
 Pietra pergunta:  Qual melhor cantor/cantora da MPB na sua opinião?
+
+Rodrigo pergunta: Qual a sua idade?
