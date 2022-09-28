@@ -11,3 +11,5 @@ jucimar pergunta : qual regiao voce mora ?
 Lucas pergunta: Qual seu filme favorito?
 
 Lucas Vicente pergunta: Qual sua banda favorita?
+
+Mykaeli pergunta: Qual é o seu hobbie?

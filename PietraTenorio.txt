@@ -19,3 +19,5 @@ jucimar pergunta : voce cursa qual faculdade ?
 Lucas pergunta: Qual seu filme favorito?
 
 Lucas Vicente pergunta: Qual cidade você mora?
+
+Mykaeli pergunta: Cor favorita?

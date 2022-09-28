@@ -13,3 +13,5 @@ Isa pergunta: Qual é a sua banda favorito?
 jucimar pergunta : voce trabalha com o que ?
 
 Lucas Vicente pergunta: Qual sua profissão?
+
+Mykaeli pergunta: Cor favorita?
