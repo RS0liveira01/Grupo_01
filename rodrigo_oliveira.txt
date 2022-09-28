@@ -16,3 +16,5 @@ Isa pergunta: Qual é a sua banda favorita?
 jucimar pergunta : quantos anos voce tem ?
 
 Lucas pergunta: Qual seu filme favorito?
+
+Lucas Vicente pergunta: Qual sua linguagem de programação preferida?
