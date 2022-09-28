@@ -19,3 +19,5 @@ Mykaeli pergunta: Cor favorita?
 Pietra pergunta:  Qual o melhor gênero de música na sua opinião?
 
 Rodrigo pergunta: Qual planta você mais gosta?
+
+Bev pergunta: Que tipo de arquitetura você mais gosta?

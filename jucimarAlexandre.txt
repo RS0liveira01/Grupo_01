@@ -21,3 +21,5 @@ R: Elis Regina
 
 Rodrigo pergunta: Qual a sua idade?
 R: 37
+
+Bev pergunta: Qual sua cor favorita?

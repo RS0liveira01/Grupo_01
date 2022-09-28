@@ -24,3 +24,5 @@ R: Titans
 
 Rodrigo pergunta: Qual seu livro favorito?
 R: Caminhos cruzados
+
+Bev pergunta: Qual sabor de pizza você mais gosta?

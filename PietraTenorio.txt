@@ -36,3 +36,5 @@ Pietra Responde: Vermelho
 Rodrigo pergunta: Estilo musical favorito?
 
 Pietra Responde: R&B
+
+Bev pergunta: Que artista mais te inspira?
