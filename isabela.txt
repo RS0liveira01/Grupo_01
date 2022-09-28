@@ -11,3 +11,5 @@ Minha cor favorita é amarelo! :)
 
 
 jucimar pergunta : ola , voce possui pets ? 
+
+Lucas pergunta: Qual seu filme favorito?
